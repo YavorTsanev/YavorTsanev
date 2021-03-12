@@ -1,4 +1,4 @@
-                                                ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=YavorTsanev)
+ ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=YavorTsanev)
 
  💻 I'm in a process of studying Software Engineering with C# in SoftUni (Software University - softuni.bg)
 
