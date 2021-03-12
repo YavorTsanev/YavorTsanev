@@ -5,5 +5,5 @@
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=YavorTsanev&layout=compact)
 🎓 Certificates |
 ------------ |
-https://softuni.bg/certificates/detai✔️ C# Basics 2020ls/73363/829c2885|
+✔️ C# Bahttps://softuni.bg/certificates/detaisics|
 Content in the first column |
