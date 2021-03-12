@@ -1,7 +1,7 @@
 
  💻 I'm in a process of studying Software Engineering with C# in SoftUni (Software University - softuni.bg)
  
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=YavorTsanev)
+![Visitor Count](https://github-readme-stats.vercel.app/api/visitor-badge.glitch.me/badge?page_id=YavorTsanev)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=YavorTsanev&count_private=true&true&hide=issues&show_icons=true&layout=compact)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=YavorTsanev&layout=compact)
 🎓 Certificates |
