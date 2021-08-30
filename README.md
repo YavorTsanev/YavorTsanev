@@ -14,3 +14,4 @@
 ✔️ [JS Applications 2020](https://softuni.bg/certificates/details/95332/6b22eb10)
 ✔️ [MS SQL 2021](https://softuni.bg/certificates/details/98034/a932e1cd)
 ✔️ [C# Web Basics 2021](https://softuni.bg/certificates/details/109488/8d2b9560)
+✔️ [C# ASP.NET Core 2021](https://softuni.bg/certificates/details/113452/3acbe540)
